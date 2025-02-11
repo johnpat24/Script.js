@@ -12,3 +12,11 @@ NaN - when it is converted in boolean it will always return false cause it repre
 
 False - the word falsy is a boolean value of false
 
+https://www.boardinfinity.com/blog/a-quick-guide-to-var-let-and-const/
+https://www.quora.com/What-are-the-differences-between-var-let-and-const-in-JavaScript-and-when-should-each-be-used#:~:text=var%20%2D%20Global%20Scope,let%2D%20block%20scope%2C%20mutable
+https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/
+
+
